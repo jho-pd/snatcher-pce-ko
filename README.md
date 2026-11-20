@@ -1,4 +1,4 @@
-# 스내처 (PC엔진 CD-ROM²) 한글패치
+# 스내처 (Snatcher) PC엔진 CD-ROM² 한글패치
 
 Snatcher CD-ROMantic (PC엔진 SUPER CD-ROM², 1992, 코나미) 한국어 패치입니다.
 
