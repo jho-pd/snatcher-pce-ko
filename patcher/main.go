@@ -21,7 +21,7 @@ var patchData []byte
 //go:embed out.cue
 var outCue []byte
 
-const version = "1.0.2"
+const version = "1.0.3"
 
 var in = bufio.NewReader(os.Stdin)
 

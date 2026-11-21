@@ -22,7 +22,7 @@ var canonLen = []int64{3949, 34120, 4871, 11212, 11783, 12578, 9952, 5050, 2503,
 
 const canonSize = int64(268522) * S
 const canonMD5 = "959c78130d97d4308c6586e06d0fa056"
-const targetMD5 = "37e05be13c1f47c85ef36b7022ee57b9"
+const targetMD5 = "1244bf5df3443223f7b1e0c9c39ef041"
 
 var dataMD5 = map[int]string{1: "ccb76e86b1ec7f69fb4b75280ac49d53", 23: "a9fe6f22961ef2d99a92b4f105353f42"}
 

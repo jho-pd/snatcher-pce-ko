@@ -6,7 +6,7 @@
 - `vcdiff.go`: VCDIFF(xdelta3) 디코더 (LZMA 보조 압축 포함)
 - `main.go`: 화면 안내, 해시 확인, 결과 파일 쓰기
 
-빌드: 릴리스 zip의 `snatcher-pce-ko-v1.0.2.xdelta` 를 이 폴더에 `patch.xdelta` 라는 이름으로 넣고
+빌드: 릴리스 zip의 `snatcher-pce-ko-v1.0.3.xdelta` 를 이 폴더에 `patch.xdelta` 라는 이름으로 넣고
 
 ```
 GOOS=windows GOARCH=amd64 go build -trimpath -ldflags "-s -w" -o Snatcher_KO_Patch.exe .
